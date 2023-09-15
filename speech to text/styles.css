@@ -1,0 +1,46 @@
+
+
+
+
+.container{
+    padding: 3rem;
+    align-content: center;
+    justify-content: center;
+    background: linear-gradient(to right,rgb(204, 78, 32),rgb(164, 23, 80));
+    border-radius: 10px;
+}
+
+.container h1{
+    color: rgb(232, 229, 226);
+}
+h1 span{
+    color: rgb(225, 199, 199);
+}
+
+.speaker {
+  display: flex;
+  justify-content: space-between;
+  width: 13rem;
+  box-shadow: 0 0 13px #0000003d;
+  border-radius: 5px;
+  background:linear-gradient(to right,rgb(169, 113, 169),rgb(26, 23, 23));
+  color: #fff;
+}
+
+.action {
+  color: grey;
+  font-weight: 800;
+  padding: 0;
+  padding-left: 2rem;
+}
+
+
+button {
+  border: transparent;
+  padding: 0 0.5rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+
+
